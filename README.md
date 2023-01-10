@@ -1,5 +1,5 @@
 # Simple-Calculator
-Simple Calculator using Python tkinter
+Simple Calculator using Python tkinter.
 You need to install Python3, pip, tkinter
 >For windows, follow these instructions: https://www.geeksforgeeks.org/how-to-install-tkinter-in-windows/
 >For MACOS, follow these instructions: https://www.geeksforgeeks.org/how-to-install-tkinter-on-macos/
